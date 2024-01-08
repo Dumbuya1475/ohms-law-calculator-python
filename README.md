@@ -1,4 +1,4 @@
-hm's Law Calculator in Python
+Ohm's Law Calculator in Python
 
 This Python project is a simple yet powerful Ohm's Law calculator, designed to assist in calculating voltage (V), current (I), and resistance (R) in electrical circuits.
 
