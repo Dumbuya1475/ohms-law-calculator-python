@@ -16,5 +16,3 @@ This Python project is a simple yet powerful Ohm's Law calculator, designed to a
    ```bash
       git clone https://github.com/your-username/ohms-law-calculator-python.git
          cd ohms-law-calculator-python
-
-
