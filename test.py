@@ -8,7 +8,7 @@ def ohms_law_calculator():
         print("3. Calculate Resistance")
         print("4. Exit")
 
-        choice = input("Enter your choice (1-4): ")
+        choice = input("Enter your choice (1-4) ")
 
         if choice == "4":
             break
